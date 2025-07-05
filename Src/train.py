@@ -4,7 +4,6 @@ import joblib
 from preprocessing import main as preprocess
 from sklearn.ensemble import RandomForestClassifier
 
-
 def main():
     # Run preprocessing to generate train/validation splits
     preprocess()

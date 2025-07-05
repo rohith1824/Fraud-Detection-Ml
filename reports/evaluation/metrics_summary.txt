@@ -1,0 +1,5 @@
+ROC AUC: 0.9791
+Average Precision (PR AUC): 0.7681
+Precision@1%: 0.1065
+Precision@5%: 0.0218
+Precision@10%: 0.0116
