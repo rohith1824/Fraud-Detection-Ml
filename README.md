@@ -136,14 +136,6 @@ Only the most statistically significant V-columns (V2, V3, V4, V7, V10, V11, V12
 
 ---
 
-## Packaging & Deployment
-
-- Containerize with Docker for reproducible environments
-- Deploy the Streamlit app to a cloud VM (Heroku, AWS EC2)
-- Automate daily data ingestion & scoring via Airflow or cron
-
----
-
 ## License
 
 This project is released under the MIT License.
